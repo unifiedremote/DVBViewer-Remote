@@ -21,4 +21,4 @@ http://www.dvbviewer.com/en/index.php
 
 ## Support
 Developed and maintained by **Styletronix**  
-https://www.styletronix.net/
+http://www.styletronix.net/
